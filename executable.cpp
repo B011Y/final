@@ -88,7 +88,6 @@ int main() {
                         std::cin.ignore();
                         switch (t) {
                             case 1:
-
                                 std::cout << "1. Однотомное издание для не более 3 авторов" << std::endl;
                                 std::cout << "2. Однотомное издание для более 3 авторов" << std::endl;
                                 std::cin >> l;
